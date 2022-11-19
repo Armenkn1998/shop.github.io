@@ -2,7 +2,7 @@ import "./AboutPages.css"
 
 const AboutPages = () => {
   return (
-    <div>AboutPages</div>
+    <div>AboutPages!</div>
   )
 }
 
